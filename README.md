@@ -59,4 +59,5 @@ Exact cover 문제를 푸는 DLX 모듈을 짜거나, 아니면 스도쿠를 풀
 
 ## 기타
 
-삼성 소프트웨어 멤버십 블로그의 글을 참고해서 공부했습니다. http://www.secmem.org/blog/2019/12/15/knuths-algorithm-x/
+삼성 소프트웨어 멤버십 블로그의 글을 참고해서 공부했습니다. http://www.secmem.org/blog/2019/12/15/knuths-algorithm-x/   
+만약 DLX를 공부하고자 한다면 강력히 추천하는 글입니다.
